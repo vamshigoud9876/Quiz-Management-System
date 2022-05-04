@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+<<<<<<< HEAD
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+=======
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+>>>>>>> 5635ab4 (My project)
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+<<<<<<< HEAD
+	<classpathentry kind="src" path="src"/>
+=======
+	<classpathentry kind="lib" path="C:/app/19r01/product/21c/dbhomeXE/jdbc/lib/ojdbc8.jar"/>
+>>>>>>> 5635ab4 (My project)
+	<classpathentry kind="output" path="bin"/>
+</classpath>
